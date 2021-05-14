@@ -8,6 +8,10 @@
     "lint": "eslint ."
   },
   "author": "Antti Korhonen <antti.korhonen@bobtherobot.fi>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btr-digital/eslint-config"
+  },
   "license": "ISC",
   "dependencies": {
     "eslint-config-airbnb-base": "^14.2.1",
