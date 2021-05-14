@@ -1,0 +1,25 @@
+{
+  "name": "@bobtherobot/eslint-config",
+  "version": "1.0.0",
+  "description": "Opinionated eslint config + prettier based on eslint-config-airbnb-base.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ."
+  },
+  "author": "Antti Korhonen <antti.korhonen@bobtherobot.fi>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 7"
+  }
+}
