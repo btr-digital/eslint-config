@@ -70,3 +70,7 @@ This is because NPM v6 (shipped in Node 14 LTS) does not install peerDependencie
 
 For further reading on the subject see this [eslint issue](https://github.com/eslint/eslint/issues/3458).
 
+## Todo
+
+- [ ] Major: Switch to peerDependencies
+- [ ] Major: Separate Vue config into its own package
