@@ -1,6 +1,6 @@
 {
   "name": "@bobtherobot/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opinionated eslint config + prettier based on eslint-config-airbnb-base.",
   "main": "index.js",
   "scripts": {
