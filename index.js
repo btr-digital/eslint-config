@@ -63,7 +63,7 @@ module.exports = {
       {
         trailingComma: 'es5',
         singleQuote: true,
-        printWidth: 140,
+        printWidth: 100,
         arrowParens: 'avoid',
         tabWidth: 2,
         useTabs: false,
